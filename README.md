@@ -1,5 +1,12 @@
 # Recipe Saver
 
+<br />
+<p align="center">
+  <a href="https://github.com/Azoz-JR/RecipeSaver/edit/master">
+    <img src="https://github.com/Azoz-JR/RecipeSaver/assets/77539943/a6909a4e-1fd6-45a2-8e8a-c0f2b2930e16" alt="Logo" width="180" height="180">
+  </a>
+</p>
+
 The Recipe Saver App is an iOS application built using the SwiftUI framework and following the MVVM architecture pattern.
 It utilizes Firebase Authentication and Firebase Database for user authentication and data storage, respectively.
 The app leverages the async-await concurrency model for efficient task execution.
